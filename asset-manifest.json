@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/project-builder-react-stage-1-quiz/static/css/main.c9f8c9bf.chunk.css",
+    "main.js": "/project-builder-react-stage-1-quiz/static/js/main.ef398129.chunk.js",
+    "main.js.map": "/project-builder-react-stage-1-quiz/static/js/main.ef398129.chunk.js.map",
+    "runtime-main.js": "/project-builder-react-stage-1-quiz/static/js/runtime-main.ad589481.js",
+    "runtime-main.js.map": "/project-builder-react-stage-1-quiz/static/js/runtime-main.ad589481.js.map",
+    "static/js/2.b6fd7db0.chunk.js": "/project-builder-react-stage-1-quiz/static/js/2.b6fd7db0.chunk.js",
+    "static/js/2.b6fd7db0.chunk.js.map": "/project-builder-react-stage-1-quiz/static/js/2.b6fd7db0.chunk.js.map",
+    "index.html": "/project-builder-react-stage-1-quiz/index.html",
+    "static/css/main.c9f8c9bf.chunk.css.map": "/project-builder-react-stage-1-quiz/static/css/main.c9f8c9bf.chunk.css.map",
+    "static/js/2.b6fd7db0.chunk.js.LICENSE.txt": "/project-builder-react-stage-1-quiz/static/js/2.b6fd7db0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad589481.js",
+    "static/js/2.b6fd7db0.chunk.js",
+    "static/css/main.c9f8c9bf.chunk.css",
+    "static/js/main.ef398129.chunk.js"
+  ]
+}
